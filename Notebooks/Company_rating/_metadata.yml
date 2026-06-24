@@ -1,0 +1,6 @@
+format:
+  html:
+    code-fold: true
+    theme: cosmo
+    toc: true
+    self-contained: true
